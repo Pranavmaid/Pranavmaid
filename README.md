@@ -1,7 +1,7 @@
 <p align="center"><img width="35%" height="auto" src="https://github.com/Pranavmaid/Pranavmaid/blob/main/Coding-bro.png" height="175px"/></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pranav</h1>
-<h3 align="center">I'm a passionate Software Developer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Devloper from India.</h3>
 
 
 ## 🙋‍♂️ About Me
