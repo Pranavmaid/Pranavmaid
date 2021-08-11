@@ -22,7 +22,7 @@
     <a href="https://www.flutter.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://rive.app/"><img width="10%" height="10%" src="https://cdn.dribbble.com/users/3011546/avatars/normal/d91f767e2d44f757002bef16b733a3ad.png" height="10px"/></a>
+    <a href="https://rive.app/"><img width="5%" height="5%" src="https://cdn.dribbble.com/users/3011546/avatars/normal/d91f767e2d44f757002bef16b733a3ad.png" height="10px"/></a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
