@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **pranavmaid@gmail.com**
 
-- ⚡ Fun fact **I play Football, chess and i like to do beatboxing a lot.**
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
