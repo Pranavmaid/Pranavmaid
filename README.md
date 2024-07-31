@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Full Stack Devloper from India.</h3>
 
 
-## 🙋‍♂️ About Me
+/*## 🙋‍♂️ About Me*/
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
