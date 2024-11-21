@@ -1,4 +1,20 @@
-<p align="center"><img width="45%" height="45%" src="https://github.com/Pranavmaid/Pranavmaid/blob/main/Coding_bro.png" height="175px"/></p>
+<!--<p align="center"><img width="45%" height="45%" src="https://github.com/Pranavmaid/Pranavmaid/blob/main/Coding_bro.png" height="175px"/></p>-->
+<script src="https://unpkg.com/@rive-app/canvas@2.20.0"></script>
+<canvas id="canvas" width="500" height="500"></canvas>
+<script>
+    const r = new rive.Rive({
+        src: "https://cdn.rive.app/animations/vehicles.riv",
+        // OR the path to a discoverable and public Rive asset
+        // src: '/public/example.riv',
+        canvas: document.getElementById("canvas"),
+        autoplay: true,
+        // artboard: "Arboard", // Optional. If not supplied the default is selected
+        stateMachines: "bumpy",
+        onLoad: () => {
+          r.resizeDrawingSurfaceToCanvas();
+        },
+    });
+</script>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pranav</h1>
 <h3 align="center">I'm a passionate Full Stack Devloper from India.</h3>
