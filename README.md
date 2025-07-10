@@ -1,4 +1,4 @@
-<p align="center"><img width="45%" height="375px" src="https://github.com/Pranavmaid/Pranavmaid/blob/main/Coding_bro.png"/></p>
+<p align="center"><img width="45%" height="400px" src="https://github.com/Pranavmaid/Pranavmaid/blob/main/Coding_bro.png"/></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >, I'm Pranav</h1>
 <h3 align="center">I'm a passionate Full Stack Devloper from India.</h3>
