@@ -1,84 +1,128 @@
-<p align="center"><img width="45%" height="400px" src="https://github.com/Pranavmaid/Pranavmaid/blob/main/Coding_bro.png"/></p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >, I'm Pranav</h1>
-<h3 align="center">I'm a passionate Full Stack Devloper from India.</h3>
-
-
-- 👀 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **pranavmaid1@gmail.com**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.flutter.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>
-    <a href="https://rive.app/"><img width="4.5%" height="100%" src="https://cdn.dribbble.com/users/3011546/avatars/normal/d91f767e2d44f757002bef16b733a3ad.png" /></a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<!--<br/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=5BCDEC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Pranav+Maid+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;0+%E2%86%92+1+Builder+%E2%9A%A1;Architecting+at+scale+%F0%9F%8C%8D" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://github.com/Pranavmaid/Pranavmaid/blob/main/Coding_bro.png" width="40%" alt="coding"/>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>-->
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/pranav-maid-99705717a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/pranav_222000/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<p align="center">
+  <a href="https://linkedin.com/in/pranav-maid-99705717a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pranavmaid1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/pranavmaid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=pranavmaid&style=for-the-badge&color=5BCDEC" alt="profile views"/>
 </p>
-<!--
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 
+---
 
-**Pranavmaid/Pranavmaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 About Me
 
-Here are some ideas to get you started:
+```typescript
+const pranav = {
+  role: "Senior Software Developer @ Transerg LLP",
+  location: "Chhatrapati Sambhaji Nagar, India 🇮🇳",
+  focus: ["0 → 1 products", "1 → 100 scaling", "AI pipelines", "DevOps"],
+  currentlyBuilding: ["Booky", "Petpooja Task", "Flowbit AI", "OOW"],
+  loves: ["clean architecture", "shipping fast", "owning the full stack"],
+  motto: "Build more than you talk about building."
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Driving products from **0 → 1** and scaling them **1 → 100**
+- 🏗️ Currently leading **4 teams (15 members)** — architecture, releases & roadmap
+- 🤖 Building **AI-driven OCR pipelines, QA agents & WhatsApp commerce**
+- 🌱 Always learning: distributed systems, LLMs, edge infra
+- 💬 Ask me about **Flutter, Node.js, AWS, AI Pipelines, or scaling SaaS**
+
+---
+
+### 🛠️ Tech Arsenal
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
+</p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+**Specialisms**
+> 🤖 AI Pipelines · 📄 OCR · 💬 WhatsApp APIs · 💳 Payment Gateways · 🛒 POS Integrations · 📊 Analytics · 📡 IoT/OTA · 🏷️ RFID · 🧩 HubSpot & Meta APIs
+
+---
+
+### 🚀 Featured Work
+
+| Project | What it does | Impact |
+|---|---|---|
+| **Booky** | WhatsApp-based reservation platform with Swiggy/Zomato sync | Acquired by **Petpooja**, +70% operational accuracy |
+| **Petpooja Task** | AI image review + structured validation | **30K MAU**, fully automated QA cycles |
+| **Flowbit AI** | OCR pipeline on Llama 3.2 Vision for invoices | Cut data-entry time by **80–90%** |
+| **OOW** | Restaurant website builder w/ payments + delivery | Razorpay, Cashfree, DoorDash, custom domains |
+| **AI QA Agent** | Automated test generation & execution | **-40%** testing cycle time |
+
+---
+
+### 🌍 Open Source
+
+- 🛠️ Fixed upload bugs in [`background_downloader`](https://pub.dev/packages/background_downloader)
+- 💬 Updated [`chatview2`](https://pub.dev/packages/chatview2) for latest Flutter releases
+- 🌐 Added missing countries to [`validator.js`](https://github.com/validatorjs/validator.js)
+- ⚡ Improved generation prompts for [`bolt.diy`](https://github.com/stackblitz-labs/bolt.diy)
+- 🌊 Actively contributing to [`AutoMQ`](https://github.com/AutoMQ/automq)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pranavmaid&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=5BCDEC&title_color=5BCDEC"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavmaid&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavmaid&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranavmaid&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+<p align="center">
+  <i>⚡ "Ship fast. Build for scale. Own the outcome." ⚡</i>
+</p>
