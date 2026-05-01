@@ -14,15 +14,15 @@
 
 ### Live links
 
-- **[Petpooja Task](https://tasksdashboard.petpooja.com/)** — Task manager & dashboard for restaurant ops; high-throughput review / validation workflows (**~30k MAU** on CV).
-- **[Table reservations](https://reservations.petpooja.com/)** — Restaurant table booking (Petpooja reservations); evolved from **Booky** / WhatsApp-era stack on CV.
-- **[OOW — ordering & websites](https://websitedemo.petpooja.site/)** — Website / ordering widgets demo — Petpooja-backed storefronts, payments & integrations on CV.
-- **[Flowbit AI](https://app.flowbitai.com/)** — Intelligent document processing — **Llama 3.2 Vision** OCR, APIs, field mapping (see CV).
+- **[Petpooja Task](https://tasksdashboard.petpooja.com/)** — Task manager & dashboard for restaurant ops; high-throughput review / validation workflows.
+- **[Table reservations](https://reservations.petpooja.com/)** — Restaurant table booking (Petpooja reservations); evolved from **Booky** / WhatsApp-era stack.
+- **[OOW — ordering & websites](https://websitedemo.petpooja.site/)** — Website / ordering widgets demo — Petpooja-backed storefronts, payments & integrations.
+- **[Flowbit AI](https://app.flowbitai.com/)** — Intelligent document processing — **Llama 3.2 Vision** OCR, APIs, field mapping.
 
 ### Other builds & clients
 
-- **[Tickiot (Phone MDM)](https://phonemdm.com/#/)** — MDM / fleet experience; large **monolith → microservices** refactor on CV.
-- **[TeliSky](https://telisky.com/)** — Hardware & software / fleet & analytics positioning — bespoke platforms & APIs (per client portfolio).
+- **[Tickiot (Phone MDM)](https://phonemdm.com/#/)** — MDM / fleet experience; large **monolith → microservices** refactor.
+- **[TeliSky](https://telisky.com/)** — Hardware & software / fleet & analytics positioning — bespoke platforms & APIs.
 
 ### Government
 
@@ -31,7 +31,7 @@
 ### Automation & internal tooling
 
 - **[n8n](https://n8n.io/)** — Automated flows connecting APIs, webhooks, and internal processes.
-- **AI QA agent** — Spec-driven regression / LLM-assisted QA (**~40%** shorter cycles on CV); no public demo linked.
+- **AI QA agent** — Spec-driven regression / LLM-assisted QA (**~40%** shorter cycles); no public demo linked.
 
 <sub><em>Also: ANTAR IoT backends &amp; OTA pipelines, OSS (AutoMQ, validator.js, bolt.diy, Flutter packages).</em></sub>
 
