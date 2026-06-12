@@ -99,7 +99,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://github.com/pranavmaid" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
+<!-- <a href="https://github.com/pranavmaid" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a> -->
 <a href="https://www.linkedin.com/in/pranav-maid-99705717a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/pranav_222000/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
 </p>
