@@ -21,7 +21,7 @@
 
 ### Other builds & clients
 
-- **[Tickiot (Phone MDM)](https://phonemdm.com/#/)** — MDM / fleet experience; large **monolith → microservices** refactor.
+- **[Tickiot (Phone MDM)](https://phonemdm.com/#/)** [Tickiot](https://tickiot.pages.dev/) — MDM / fleet experience; large **monolith → microservices** refactor.
 - **[TeliSky](https://telisky.com/)** — Hardware & software / fleet & analytics positioning — bespoke platforms & APIs.
 
 ### Government
