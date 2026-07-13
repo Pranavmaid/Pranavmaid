@@ -1,29 +1,14 @@
 <!-- Animated header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Pranav%20Maid&fontColor=ffffff&fontSize=45&fontAlignY=32&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Engineer&descSize=18&descAlignY=52&animation=fadeIn" width="100%"/>
-</p>
-
-<!-- Animated typing intro -->
-<p align="center">
-  <a href="https://pranav.howicandoit.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=Full-stack+developer+with+5+years+of+shipping;0+%E2%86%92+1+products%2C+then+1+%E2%86%92+100;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+LLMs+in+production;Built+a+platform+acquired+by+Petpooja" alt="Typing SVG"/>
-  </a>
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github.com/Pranavmaid/Pranavmaid/blob/main/Coding_bro.png"/>
-</p>
+<p align="center"><img width="45%" height="400px" src="https://github.com/Pranavmaid/Pranavmaid/blob/main/Coding_bro.png"/></p> <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >, I'm Pranav</h1><h3 align="center">I'm a passionate Full Stack Devloper from India.</h3>
 
 ---
 
 ### 👋 About me
 
 - 🧠 I build products end to end — architecture, execution, delivery.
-- 🤖 Deep hands-on with **LLM apps, AI agents, RAG, OCR/document intelligence, chatbots**.
-- 🚀 Built & scaled **Booky** (WhatsApp reservations, acquired by Petpooja) and led **4 teams / 15 people**.
 - 🌐 Portfolio → **[pranav.howicandoit.com](https://pranav.howicandoit.com)**
 - 📫 Reach me → **pranavmaid1@gmail.com**
-- 👀 Open to collaborating on **open-source projects**
+- 👀 Open to collaborating on **projects**
 
 ---
 
@@ -108,8 +93,4 @@
   <a href="mailto:pranavmaid1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://pranav.howicandoit.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.instagram.com/pranav_222000/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 </p>
