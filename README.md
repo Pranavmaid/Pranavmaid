@@ -1,76 +1,115 @@
-<p align="center"><img width="45%" height="400px" src="https://github.com/Pranavmaid/Pranavmaid/blob/main/Coding_bro.png"/></p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >, I'm Pranav</h1>
-<h3 align="center">I'm a passionate Full Stack Devloper from India.</h3>
-
-
-- 👀 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **pranavmaid1@gmail.com**
-
-## 🚀 Languages and Tools:
-
-<p align="left"><sub><em>Languages · APIs · frontend · cloud · data — aligned with my resume (full-stack / platform / distributed systems; incl. Kafka &amp; Flink where relevant).</em></sub></p>
-
-<h4>Languages</h4>
-<p align="left">
-    <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="48" height="48"/></a>
-    <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/python.png" alt="Python"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/></a>
-</a>
+<!-- Animated header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Pranav%20Maid&fontColor=ffffff&fontSize=45&fontAlignY=32&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Engineer&descSize=18&descAlignY=52&animation=fadeIn" width="100%"/>
 </p>
 
-<h4>Backend &amp; APIs</h4>
-<p align="left">
-    <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/></a>
-    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/color/48/django.png" alt="Django"/></a>
-    <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="48" height="48"/></a>
-    <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="48" height="48"/></a>
-    <a href="https://grpc.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" alt="gRPC" width="42" height="42"/></a>
-    <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42"/></a>
+<!-- Animated typing intro -->
+<p align="center">
+  <a href="https://pranav.howicandoit.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=Full-stack+developer+with+5+years+of+shipping;0+%E2%86%92+1+products%2C+then+1+%E2%86%92+100;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+LLMs+in+production;Built+a+platform+acquired+by+Petpooja" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github.com/Pranavmaid/Pranavmaid/blob/main/Coding_bro.png"/>
+</p>
+
+---
+
+### 👋 About me
+
+- 🧠 I build products end to end — architecture, execution, delivery.
+- 🤖 Deep hands-on with **LLM apps, AI agents, RAG, OCR/document intelligence, chatbots**.
+- 🚀 Built & scaled **Booky** (WhatsApp reservations, acquired by Petpooja) and led **4 teams / 15 people**.
+- 🌐 Portfolio → **[pranav.howicandoit.com](https://pranav.howicandoit.com)**
+- 📫 Reach me → **pranavmaid1@gmail.com**
+- 👀 Open to collaborating on **open-source projects**
+
+---
+
+## 🛠️ Languages & Tools
+
+<h4>Languages</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,dart&theme=dark" alt="JavaScript, TypeScript, Python, Dart"/>
 </p>
 
 <h4>Frontend</h4>
-<p align="left">
-    <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48"/></a>
-    <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48"/></a>
-    <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42"/></a>
-    <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="42" height="42"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,flutter,html,css&theme=dark" alt="React, Next.js, Angular, Flutter, HTML, CSS"/>
 </p>
 
-<h4>Cloud, infra &amp; distributed systems</h4>
-<p align="left">
-    <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="52" height="52"/></a>
-    <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="52" height="52"/></a>
-    <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="52" height="52"/></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="48" height="48"/></a>
-    <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="52" height="52"/></a>
-    <a href="https://nginx.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="42" height="42"/></a>
-    <a href="https://kafka.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" width="48" height="48"/></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/></a>
+<h4>Backend & APIs</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,postman&theme=dark" alt="Node.js, Express, Flask, Postman"/>
+  &nbsp;<img src="https://img.shields.io/badge/REST_APIs-2575FC?style=for-the-badge&logo=fastapi&logoColor=white" height="42"/>
 </p>
 
-<h4>Databases &amp; data stores</h4>
-<p align="left">
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/></a>
-    <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48"/></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/mysql-logo.png" alt="MySQL"/></a>
-    <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="48" height="48"/></a>
+<h4>AI / ML</h4>
+<p>
+  <img src="https://img.shields.io/badge/LLM_Apps-6a11cb?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Agents-7b3fe4?style=for-the-badge&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-8a54ff?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCR_%2F_Doc_AI-2575fc?style=for-the-badge&logo=googlelens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chatbots-1e88e5?style=for-the-badge&logo=chatbot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-0d47a1?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-<h4>Practices &amp; tooling</h4>
-<p align="left">
-    <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/git.png" alt="Git"/></a>
-    <a href="https://github.com/pranavmaid" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="48" height="48"/></a>
-    <a href="https://n8n.io/" target="_blank" title="n8n automation"><img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" alt="n8n" width="42" height="42"/></a>
+<h4>Databases</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb&theme=dark" alt="PostgreSQL, MongoDB, DynamoDB"/>
+  &nbsp;<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" height="42"/>
 </p>
 
-## Connect with me:
-<p align="left">
-<!-- <a href="https://github.com/pranavmaid" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a> -->
-<a href="https://www.linkedin.com/in/pranav-maid-99705717a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/pranav_222000/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+<h4>Cloud & DevOps</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,githubactions,linux&theme=dark" alt="AWS, GCP, Docker, Nginx, CI/CD, Linux"/>
+</p>
+
+<h4>Practices & Tooling</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub"/>
+  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="42"/></a>
+</p>
+
+---
+
+## 📦 Open Source
+
+| Package | Role |
+|---|---|
+| [**flutter_crop_kit**](https://pub.dev/packages/flutter_crop_kit) | Creator / Maintainer |
+| [**flutter_chatview2**](https://pub.dev/packages/flutter_chatview2) | Maintainer |
+
+---
+
+<!-- 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavmaid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavmaid&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavmaid&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+<!-- Animated contribution snake (needs the workflow below)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranavmaid/Pranavmaid/output/snake.svg" alt="Contribution snake"/>
+</p>
+-->
+
+## 🤝 Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/pranavmaid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pranavmaid1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://pranav.howicandoit.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.instagram.com/pranav_222000/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 </p>
